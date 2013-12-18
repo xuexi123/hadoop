@@ -43,7 +43,6 @@ public class GameFrame04 extends Frame {    //GUI±à³Ì£ºAWT,swingµÈ¡£
 		
 		x =100+ 100*Math.cos(degree);
 		y =200+ 50*Math.sin(degree);
-		
 		degree +=0.1;
 		
 	}
